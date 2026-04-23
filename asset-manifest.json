@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_CW/static/css/main.4b5b1b1c.css",
+    "main.js": "/React_CW/static/js/main.851a7a31.js",
+    "index.html": "/React_CW/index.html",
+    "main.4b5b1b1c.css.map": "/React_CW/static/css/main.4b5b1b1c.css.map",
+    "main.851a7a31.js.map": "/React_CW/static/js/main.851a7a31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b5b1b1c.css",
+    "static/js/main.851a7a31.js"
+  ]
+}
